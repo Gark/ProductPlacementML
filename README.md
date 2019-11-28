@@ -1,4 +1,5 @@
 # Product placement in the video streams
+#AndroidDevChallenge
 ## Tell us what your idea is.
 
 Don't you find the video advertisement annoying? How many times does it appear during the video? More and more people installing ad blocker software as an extension to their browsers that has an impact on publisher profit.  On the other hand, advertising is a significant source of revenue. As a result, the authors of videos are forced to integrate advertisements directly to the clip. Unfortunately, this is not a good solution, because users are getting more irritated or just fast forward the video. How to make advertisement user-friendly and unobtrusive? We believe that the key to solving this problem is lying in technologies that provided integration commercial content directly into videos without interrupting the viewer experience. The video will run smoothly without any interceptions and all ads blocks will be injected dynamically, also content might also target - most relevant content for users.
